@@ -23,15 +23,14 @@ Features
 
 ## Technology/Main Libraries Used
 
-Laravel Framework 10.48.22
-Node v20.18.0
-Docker version 27.3.1,
-PHP 8.1.30
-Remix ^2.14.0
-Mantine ^7.14.0
-Postgres
+1. Laravel Framework 10.48.22
+2. Node v20.18.0
+3. Docker version 27.3.1,
+4. PHP 8.1.30
+4. Remix ^2.14.0
+5. Mantine ^7.14.0
+6. Postgres
 
----
 
 ## Setup Guide
 
